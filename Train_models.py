@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
+pip install matplotlib
 from sklearn.naive_bayes import GaussianNB
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.multioutput import MultiOutputClassifier
